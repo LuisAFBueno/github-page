@@ -1,0 +1,10 @@
+.banner-menu {
+    object-fit: cover;
+    max-height: 775px;
+    width: 100%;
+}
+
+.logo{
+    max-width: 150px;
+    max-height: 100px;
+}
